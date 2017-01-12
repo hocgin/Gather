@@ -4,4 +4,4 @@
 > **其他描述:** 请自由发挥吧..  
 
 # 贡献者们 / Authors  
-联系 **Mr.Red** 请致信 <cut.moy@gmail.com>  
+联系 **hocgin** 请致信 <hocgin@gmail.com>  
