@@ -1,6 +1,10 @@
 # Gather
 > 常用工具的设置 &amp; 插件
 
+┬ ┬┌─┐┌─┐┌─┐┬┌┐┌
+├─┤│ ││  │ ┬││││
+┴ ┴└─┘└─┘└─┘┴┘└┘
+
 # 目录
 - [IntelliJ IDEA](IntelliJ IDEA/README.md)
 - [Android Studio](Android Studio/README.md)
