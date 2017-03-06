@@ -1,5 +1,3 @@
-<h1 align="center">Gather</h1>
-> 常用工具的设置 &amp; 插件
 <p align="center">
   ____       _   _
  / ___| __ _| |_| |__   ___ _ __
@@ -7,6 +5,7 @@
 | |_| | (_| | |_| | | |  __/ |
  \____|\__,_|\__|_| |_|\___|_|
 </p>
+> 常用工具的设置 &amp; 插件
 
 # 目录
 - [IntelliJ IDEA](IntelliJ IDEA/README.md)
