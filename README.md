@@ -4,6 +4,7 @@
 </p>
 
 # 目录
+- [iTerm2](iTerm2/README.md)
 - JetBrains
   - [IntelliJ IDEA](JetBrains/IntelliJ IDEA/README.md)
   - [Android Studio](JetBrains/Android Studio/README.md)
