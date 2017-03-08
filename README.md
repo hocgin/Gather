@@ -4,8 +4,10 @@
 > 常用工具的设置 &amp; 插件
 
 # 目录
-- [IntelliJ IDEA](IntelliJ IDEA/README.md)
-- [Android Studio](Android Studio/README.md)
+- JetBrains
+  - [IntelliJ IDEA](JetBrains/IntelliJ IDEA/README.md)
+  - [Android Studio](JetBrains/Android Studio/README.md)
+  - [Live Templates](JetBrains/Live Templates.md)
 - [更多／进度](https://github.com/hocgin/Gather/issues)
 
 # 如何使用 / Usage
