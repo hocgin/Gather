@@ -1,7 +1,7 @@
 <p align="center">
     <img src="http://7xs6lq.com1.z0.glb.clouddn.com/0E881D54-E233-4AC0-8F4D-E4E015A732F2.png"/>
+    <p>常用工具的设置 &amp; 插件</p>
 </p>
-> 常用工具的设置 &amp; 插件
 
 # 目录
 - JetBrains
