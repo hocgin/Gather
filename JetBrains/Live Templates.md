@@ -1,5 +1,6 @@
 **目录**
 - [Laravel](https://github.com/johnblackmore/laravel-intellij-live-templates)
+- [Android](https://github.com/keyboardsurfer/idea-live-templates)
 
 **使用**
 - Windows `<User home>`\\`<App Config Home>`\config\templates
