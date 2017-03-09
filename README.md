@@ -9,6 +9,7 @@
   - [IntelliJ IDEA](JetBrains/IntelliJ IDEA/README.md)
   - [Android Studio](JetBrains/Android Studio/README.md)
   - [Live Templates](JetBrains/Live Templates.md)
+- [Vim](Vim/README.md)
 - [更多／进度](https://github.com/hocgin/Gather/issues)
 
 # 如何使用 / Usage
