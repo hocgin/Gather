@@ -10,6 +10,7 @@
   - [Android Studio](JetBrains/Android%20Studio/README.md)
   - [Live Templates](JetBrains/Live%20Templates.md)
 - [Vim](Vim/README.md)
+- [oh-my-zsh](oh-my-zsh/README.md)
 - [更多／进度](https://github.com/hocgin/Gather/issues)
 
 # 如何使用 / Usage
